@@ -1,29 +1,23 @@
-# JAPA-BOT
 
-X
+VIDEO QUE É NESCESSARIO PARA OS COMANDOS BÁSICOS DO TERMUX, MAS ELES AINDA NÃO SÃO DE SUMA IMPORTÂNCIA PARA O BOT, MAS SIM PARA A INICIALIZAÇÃO DELE, O TERMUX NÃO É UM BOT OU O BOT, SÓ DEIXAR ISSO CLARO...
 
-# COMANDOS
+VIDEO : https://youtu.be/OiWcm9INzXE
+--------------------_-
 
-# 1 comando
+APÓS OS COMANDOS BÁSICOS DO TERMUX SÓ ENTRAR NO TERMUX E DA ESSE COMANDO PARA INSTALAR A PASTA NO ARMAZENAMENTO INTERNO :
 
-pkg upgrade -y && pkg update -y && pkg install python -y && pkg install nodejs-lts -y && pkg install nodejs -y && pkg install git -y && pkg install ffmpeg -y && pkg install wget -y
+1_ COMANDO :
 
-# 2 comando 
+cd /sdcard && git clone https://github.com/NuevaGeneracionALB/aleatory-md.git && cd aleatory-md
 
-termux-setup-storage
+COLE EXATAMENTE DESSA FÓRMA E JUNTO ASSIM..
 
-# 3 comando 
+2_ COMANDO :
 
-cd /sdcard/download
+sh start.sh
 
-# 4 comando 
 
-git clone 
-
-# 5 comando 
-
-cd /sdcard/download/japabot
-
-# LIGAR O BOT
-
-cd /sdcard/download/japabot && sh start.sh
+ESSE COMANDO É PARA LIGAR, AE VAI GERAR O QRCODE, VOCÊ PRECISARÁ DE UM SEGUNDO CELULAR PARA TIRAR FOTO DO QRCODE, LÓGO DEPOIS, ESCANEAR A FOTO QUE TIROU COM UM WHATSAPP SECUNDÁRIO QUE CONTENHA UM NÚMERO CLARO.., PARA ELE SERVIR DE BOT..
+QUALQUER PROBLEMA QUE CONTER, ENTRA NO GRUPO DO COMENTÁRIO FIXADO, DO VIDEO MAIS ATUALIZADO, IREI ATUALIZAR SEMPRE QUE EU PODER..
+# aleatory-md
+# aleatory-md
